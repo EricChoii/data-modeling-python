@@ -1,4 +1,4 @@
-# CS 320: Data Science Programming II
+# Data Science Programming II
 
 Intructor: Prof. Tyler Caraza-harter
 
