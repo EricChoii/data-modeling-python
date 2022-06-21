@@ -8,7 +8,7 @@ Intermediate approach to Data Science programming using Python. Experience with 
 
 ## Notes
 
-This repository contains course homeworks for CS320. I received perfect scores on every homework, so you might want to refer to them for your learning. 
+This repository contains course homeworks for a data modeling class. I received perfect scores on every homework, so you might want to refer to them for your learning. 
 
 All the codes are written by Eric.
 
